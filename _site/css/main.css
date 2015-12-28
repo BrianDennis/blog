@@ -1443,7 +1443,7 @@ pre code {
       padding: 30px 50px; } }
   @media only screen and (min-width: 992px) {
     .cover {
-      background-image: url("../img/sidebar-bg.jpg");
+      background-image: url("../img/mountains.png");
       background-position: center bottom;
       background-size: cover;
       height: 100vh;

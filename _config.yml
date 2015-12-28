@@ -11,7 +11,7 @@ description: A simple and awesome blog theme powered by jekyll.
 # Then, the 'url' is: http://yourname.github.io
 # If your project is placed in another repository as a gh-pages branch, like: https://github.com/yourname/projectname
 # Then, the 'url' is: http://yourname.github.io/projectname
-url:
+url: http://blog.briandennis.io
 
 #
 ###################################
@@ -36,9 +36,9 @@ kramdown:
 #
 owner:
   name: Brian Dennis
-  avatar: avatar.jpg
-  job: "Web Developer / Computer Scientist"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+  avatar: avatar.png
+  job: "Web Developer, Computer Science Student"
+  bio: "Learning web development, one framework at a time. Also a CS Student at the University of Wisconsin Madison focusing on Theoretical Computer Science"
   email:
   disqus-shortname:
   twitter: #username
@@ -50,7 +50,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: briandennis
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
